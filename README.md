@@ -22,36 +22,36 @@
   </p>
 
   <p>
-    <a href="https://vue-bun-starter.netlify.app"><strong>🌐 View Live Demo →</strong></a>
+    <a href="https://vue-bun-starter.netlify.app"><strong> View Live Demo →</strong></a>
   </p>
 
 </div>
 
 ---
 
-## 📖 About
+## About
 
 Designed for **Developer Experience (DX)**, code quality, and long-term maintainability. This template pre-configures the best-in-class tools so you can focus on building features, not configuring build tools.
 
 It comes with a fully automated **CI/CD pipeline** utilizing GitHub Actions and Semantic Release to handle versioning and changelogs automatically.
 
-## ✨ Features
+## Features
 
-### ⚡️ Core Stack
+### Core Stack
 
 - **[Vue 3.5+](https://vuejs.org/)**: Composition API with `<script setup>` for concise components.
 - **[TypeScript 5.9+](https://www.typescriptlang.org/)**: Configured with `strict: true` and `noUncheckedIndexedAccess` for maximum type safety.
 - **[Vite 7](https://vitejs.dev/)**: Next-generation frontend tooling with instant server start.
 - **[Tailwind CSS 4.1](https://tailwindcss.com/)**: The latest utility-first CSS framework (Vite native integration).
 
-### 🛠 Developer Experience
+### Developer Experience
 
 - **[ESLint](https://eslint.org/)**: Powered by `@antfu/eslint-config` for zero-config, opinionated linting.
 - **[Husky](https://typicode.github.io/husky/) & [lint-staged](https://github.com/okonet/lint-staged)**: Ensures quality before commit.
 - **[Commitlint](https://commitlint.js.org/)**: Enforces [Conventional Commits](https://www.conventionalcommits.org/).
 - **[VueUse](https://vueuse.org/)**: Essential Vue Composition Utilities.
 
-### 🧪 Quality & CI/CD
+### Quality & CI/CD
 
 - **[Vitest](https://vitest.dev/)**: Blazing fast unit testing.
 - **Automated Releases**: GitHub Actions workflow for semantic versioning, changelog generation, and tagging.
@@ -59,7 +59,7 @@ It comes with a fully automated **CI/CD pipeline** utilizing GitHub Actions and 
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 Before you begin, ensure you have the following installed:
 
@@ -76,7 +76,7 @@ git --version
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Use this Template
 
@@ -124,7 +124,7 @@ The app will be available at `http://localhost:5173/`.
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Script           | Description                              |
 | :--------------- | :--------------------------------------- |
@@ -139,7 +139,7 @@ The app will be available at `http://localhost:5173/`.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 .
@@ -164,7 +164,7 @@ The app will be available at `http://localhost:5173/`.
 
 ---
 
-## ⚙️ Configuration Notes
+## Configuration Notes
 
 ### Semantic Release
 
@@ -184,7 +184,7 @@ Recommended extensions are pre-configured in `.vscode/extensions.json`.
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1.  **Fork** the repository.
 2.  **Create** a feature branch (`git checkout -b feat/awesome-feature`).
@@ -194,6 +194,6 @@ Recommended extensions are pre-configured in `.vscode/extensions.json`.
 
 ---
 
-## 📄 License
+## License
 
 [MIT](LICENSE)
