@@ -1,3 +1,11 @@
+## [1.0.5](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.4...v1.0.5) (2026-04-19)
+
+### 📦 Dependency Updates
+
+* **bot:** config Renovate ([#3](https://github.com/pharmacist-sabot/vue-bun-starter/issues/3)) ([9b5bb98](https://github.com/pharmacist-sabot/vue-bun-starter/commit/9b5bb98baba97a3fbb7d179513848853b0e13031))
+* **deps:** update dependency bun to v1.3.12 ([#4](https://github.com/pharmacist-sabot/vue-bun-starter/issues/4)) ([a57db96](https://github.com/pharmacist-sabot/vue-bun-starter/commit/a57db96873717d0bb53a34aa9b18b6126a424bb6))
+* **package:** update dependencies to latest versions ([93dfe07](https://github.com/pharmacist-sabot/vue-bun-starter/commit/93dfe07ef7e85e742495e140effda17d2362dbcc))
+
 ## [1.0.4](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.3...v1.0.4) (2026-03-21)
 
 ### 📝 Documentation
