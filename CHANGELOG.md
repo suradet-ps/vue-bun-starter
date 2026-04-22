@@ -4,54 +4,54 @@
 
 * **deps:** update dependency @vue/tsconfig to ^0.9.0 ([#5](https://github.com/suradet-ps/vue-bun-starter/issues/5)) ([982418a](https://github.com/suradet-ps/vue-bun-starter/commit/982418ae323518b74c4375043e988b6fd465b86e))
 
-## [1.0.5](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.4...v1.0.5) (2026-04-19)
+## [1.0.5](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.4...v1.0.5) (2026-04-19)
 
 ### 📦 Dependency Updates
 
-* **bot:** config Renovate ([#3](https://github.com/pharmacist-sabot/vue-bun-starter/issues/3)) ([9b5bb98](https://github.com/pharmacist-sabot/vue-bun-starter/commit/9b5bb98baba97a3fbb7d179513848853b0e13031))
-* **deps:** update dependency bun to v1.3.12 ([#4](https://github.com/pharmacist-sabot/vue-bun-starter/issues/4)) ([a57db96](https://github.com/pharmacist-sabot/vue-bun-starter/commit/a57db96873717d0bb53a34aa9b18b6126a424bb6))
-* **package:** update dependencies to latest versions ([93dfe07](https://github.com/pharmacist-sabot/vue-bun-starter/commit/93dfe07ef7e85e742495e140effda17d2362dbcc))
+* **bot:** config Renovate ([#3](https://github.com/suradet-ps/vue-bun-starter/issues/3)) ([9b5bb98](https://github.com/suradet-ps/vue-bun-starter/commit/9b5bb98baba97a3fbb7d179513848853b0e13031))
+* **deps:** update dependency bun to v1.3.12 ([#4](https://github.com/suradet-ps/vue-bun-starter/issues/4)) ([a57db96](https://github.com/suradet-ps/vue-bun-starter/commit/a57db96873717d0bb53a34aa9b18b6126a424bb6))
+* **package:** update dependencies to latest versions ([93dfe07](https://github.com/suradet-ps/vue-bun-starter/commit/93dfe07ef7e85e742495e140effda17d2362dbcc))
 
-## [1.0.4](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.3...v1.0.4) (2026-03-21)
-
-### 📝 Documentation
-
-* refactor README.md for consistency and clarity ([c91b734](https://github.com/pharmacist-sabot/vue-bun-starter/commit/c91b73400148db208fee209d11b444a3b467eea5))
-
-## [1.0.3](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.2...v1.0.3) (2025-12-21)
+## [1.0.4](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.3...v1.0.4) (2026-03-21)
 
 ### 📝 Documentation
 
-* improve README layout and formatting ([42472de](https://github.com/pharmacist-sabot/vue-bun-starter/commit/42472deb14d9b14b1bb2d3b695ca8de915e385ef))
+* refactor README.md for consistency and clarity ([c91b734](https://github.com/suradet-ps/vue-bun-starter/commit/c91b73400148db208fee209d11b444a3b467eea5))
 
-## [1.0.2](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.1...v1.0.2) (2025-12-21)
+## [1.0.3](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.2...v1.0.3) (2025-12-21)
 
 ### 📝 Documentation
 
-* improve README with prerequisites, demo link, and cross-platform commands ([c991ef2](https://github.com/pharmacist-sabot/vue-bun-starter/commit/c991ef20a9f423071bc592f4e18a43ca1cc5376e))
+* improve README layout and formatting ([42472de](https://github.com/suradet-ps/vue-bun-starter/commit/42472deb14d9b14b1bb2d3b695ca8de915e385ef))
+
+## [1.0.2](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.1...v1.0.2) (2025-12-21)
+
+### 📝 Documentation
+
+* improve README with prerequisites, demo link, and cross-platform commands ([c991ef2](https://github.com/suradet-ps/vue-bun-starter/commit/c991ef20a9f423071bc592f4e18a43ca1cc5376e))
 
 ### 📦 Dependency Updates
 
-* add MIT license ([7cdb2ea](https://github.com/pharmacist-sabot/vue-bun-starter/commit/7cdb2ea27af0b7d326e6344274abfae7625b56e5))
+* add MIT license ([7cdb2ea](https://github.com/suradet-ps/vue-bun-starter/commit/7cdb2ea27af0b7d326e6344274abfae7625b56e5))
 
-## [1.0.1](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.0...v1.0.1) (2025-12-20)
+## [1.0.1](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.0...v1.0.1) (2025-12-20)
 
 ### 📝 Documentation
 
-* update README.md ([46f8b0a](https://github.com/pharmacist-sabot/vue-bun-starter/commit/46f8b0a92e8cd471d3ef8391473753266e419f06))
+* update README.md ([46f8b0a](https://github.com/suradet-ps/vue-bun-starter/commit/46f8b0a92e8cd471d3ef8391473753266e419f06))
 
 ### 📦 Dependency Updates
 
-* configure semantic release and CI workflows ([#1](https://github.com/pharmacist-sabot/vue-bun-starter/issues/1)) ([2d7ce7d](https://github.com/pharmacist-sabot/vue-bun-starter/commit/2d7ce7d53a86fc6308ad8e399ce4b4cd3747473a))
+* configure semantic release and CI workflows ([#1](https://github.com/suradet-ps/vue-bun-starter/issues/1)) ([2d7ce7d](https://github.com/suradet-ps/vue-bun-starter/commit/2d7ce7d53a86fc6308ad8e399ce4b4cd3747473a))
 
 # 1.0.0 (2025-12-17)
 
 
 ### Bug Fixes
 
-* remove bun audit ([f77627b](https://github.com/pharmacist-sabot/vue-bun-starter/commit/f77627b2da48456e6a399848a54ffbbf1c3ac833))
+* remove bun audit ([f77627b](https://github.com/suradet-ps/vue-bun-starter/commit/f77627b2da48456e6a399848a54ffbbf1c3ac833))
 
 
 ### Features
 
-* initial project ([6cd5af6](https://github.com/pharmacist-sabot/vue-bun-starter/commit/6cd5af68e438d0116287a5743e43b1e32372c52b))
+* initial project ([6cd5af6](https://github.com/suradet-ps/vue-bun-starter/commit/6cd5af68e438d0116287a5743e43b1e32372c52b))

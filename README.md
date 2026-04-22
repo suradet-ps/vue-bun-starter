@@ -15,8 +15,8 @@
   </p>
 
   <p>
-    <a href="https://github.com/pharmacist-sabot/vue-bun-starter/actions"><img src="https://github.com/pharmacist-sabot/vue-bun-starter/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
-    <a href="https://github.com/pharmacist-sabot/vue-bun-starter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/pharmacist-sabot/vue-bun-starter" alt="License"></a>
+    <a href="https://github.com/suradet-ps/vue-bun-starter/actions"><img src="https://github.com/suradet-ps/vue-bun-starter/actions/workflows/ci.yml/badge.svg" alt="CI Status"></a>
+    <a href="https://github.com/suradet-ps/vue-bun-starter/blob/main/LICENSE"><img src="https://img.shields.io/github/license/suradet-ps/vue-bun-starter" alt="License"></a>
     <a href="https://github.com/semantic-release/semantic-release"><img src="https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg" alt="Semantic Release"></a>
     <a href="https://vue-bun-starter.netlify.app"><img src="https://img.shields.io/badge/Demo-Live-00C7B7?logo=netlify&logoColor=white" alt="Live Demo"></a>
   </p>
@@ -84,7 +84,7 @@ Click the **"Use this template"** button on GitHub to create a new repository, o
 
 ```bash
 # Clone the repository
-git clone https://github.com/pharmacist-sabot/vue-bun-starter.git my-app
+git clone https://github.com/suradet-ps/vue-bun-starter.git my-app
 cd my-app
 ```
 
