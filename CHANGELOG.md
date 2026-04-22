@@ -1,3 +1,18 @@
+## [1.0.7](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.6...v1.0.7) (2026-04-22)
+
+### 🐛 Bug Fixes
+
+* **ci:** make CI commands pass (eslint, tsconfig, lint targets) ([8f73d03](https://github.com/suradet-ps/vue-bun-starter/commit/8f73d03413b442955d58fa42c4cffe914aef2677))
+* **lint:** restrict lint:fix to src and tests ([9ef048d](https://github.com/suradet-ps/vue-bun-starter/commit/9ef048deab8b88c06b51c7764820b13d53181787))
+* **tsconfig:** remove baseUrl deprecation workaround and correct paths/types ([cd5bdcc](https://github.com/suradet-ps/vue-bun-starter/commit/cd5bdcc6e288678ce14261a743b00b262015c774))
+
+### 📦 Dependency Updates
+
+* **package:** update bun.lock ([6f6a54d](https://github.com/suradet-ps/vue-bun-starter/commit/6f6a54dd2c6674c635454270872da5cd5646bdb8))
+* **release:** update Node.js setup action version to v6 ([a0200c6](https://github.com/suradet-ps/vue-bun-starter/commit/a0200c698c25024482f830da5ff3d55513a5b5d0))
+* update LICENSE ([eee271a](https://github.com/suradet-ps/vue-bun-starter/commit/eee271ad86ee6550362b5048080bc9aa4509e5a7))
+* update setup-node action version in CI workflow ([28b0e39](https://github.com/suradet-ps/vue-bun-starter/commit/28b0e396c0f8c7b669ef7a9f546f4505594f5600))
+
 ## [1.0.6](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.5...v1.0.6) (2026-04-22)
 
 ### 📦 Dependency Updates
