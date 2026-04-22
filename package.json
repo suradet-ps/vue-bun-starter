@@ -9,7 +9,7 @@
     "preview": "vite preview",
     "type-check": "vue-tsc --noEmit",
     "lint": "eslint \"src\" \"tests\" --ext .js,.cjs,.mjs,.ts,.mts,.tsx,.vue",
-    "lint:fix": "eslint . --fix",
+    "lint:fix": "eslint \"src\" \"tests\" --ext .js,.cjs,.mjs,.ts,.mts,.tsx,.vue --fix",
     "prepare": "husky",
     "test:unit": "vitest",
     "test:coverage": "vitest run --coverage"
