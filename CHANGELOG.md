@@ -1,3 +1,9 @@
+## [1.0.6](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.5...v1.0.6) (2026-04-22)
+
+### 📦 Dependency Updates
+
+* **deps:** update dependency @vue/tsconfig to ^0.9.0 ([#5](https://github.com/suradet-ps/vue-bun-starter/issues/5)) ([982418a](https://github.com/suradet-ps/vue-bun-starter/commit/982418ae323518b74c4375043e988b6fd465b86e))
+
 ## [1.0.5](https://github.com/pharmacist-sabot/vue-bun-starter/compare/v1.0.4...v1.0.5) (2026-04-19)
 
 ### 📦 Dependency Updates
