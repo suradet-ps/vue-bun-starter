@@ -1,3 +1,9 @@
+## [1.0.8](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.7...v1.0.8) (2026-04-23)
+
+### 📦 Dependency Updates
+
+* **deps:** update oven-sh/setup-bun action to v2.2.0 ([#7](https://github.com/suradet-ps/vue-bun-starter/issues/7)) ([4f06fa7](https://github.com/suradet-ps/vue-bun-starter/commit/4f06fa766d85c00dc21b2cb665c5fec8156e436f))
+
 ## [1.0.7](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.6...v1.0.7) (2026-04-22)
 
 ### 🐛 Bug Fixes
