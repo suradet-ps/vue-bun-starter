@@ -1,3 +1,9 @@
+## [1.0.9](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.8...v1.0.9) (2026-04-23)
+
+### 📦 Dependency Updates
+
+* **deps:** update actions/checkout action to v6.0.2 ([#9](https://github.com/suradet-ps/vue-bun-starter/issues/9)) ([9dcecfb](https://github.com/suradet-ps/vue-bun-starter/commit/9dcecfb0dcc55f18fe43d157d2ad529f4fcba7a3))
+
 ## [1.0.8](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.7...v1.0.8) (2026-04-23)
 
 ### 📦 Dependency Updates
