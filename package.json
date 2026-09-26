@@ -15,7 +15,7 @@
     "test:coverage": "vitest run --coverage"
   },
   "dependencies": {
-    "@vueuse/core": "^14.2.1",
+    "@vueuse/core": "^15.0.0",
     "axios": "^1.15.2",
     "lucide-vue-next": "^1.0.0",
     "pinia": "^4.0.0",
