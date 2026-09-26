@@ -1,3 +1,9 @@
+## [1.0.15](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.14...v1.0.15) (2026-09-26)
+
+### 📦 Dependency Updates
+
+* **deps:** update dependency @types/node to v26 ([7dab1c8](https://github.com/suradet-ps/vue-bun-starter/commit/7dab1c8ca9120e9f7f215e7f78a48798d099985e))
+
 ## [1.0.14](https://github.com/suradet-ps/vue-bun-starter/compare/v1.0.13...v1.0.14) (2026-08-29)
 
 ### 📝 Documentation
