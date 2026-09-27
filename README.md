@@ -1,13 +1,12 @@
 # Vue Bun Starter Template
 
-```
-██╗   ██╗██╗   ██╗███████╗██████╗ ██╗   ██╗███╗   ██╗
-██║   ██║██║   ██║██╔════╝██╔══██╗██║   ██║████╗  ██║
-██║   ██║██║   ██║█████╗  ██████╔╝██║   ██║██╔██╗ ██║
-╚██╗ ██╔╝██║   ██║██╔══╝  ██╔══██╗██║   ██║██║╚██╗██║
- ╚████╔╝ ╚██████╔╝███████╗██████╔╝╚██████╔╝██║ ╚████║
-  ╚═══╝ ╚═════╝ ╚══════╝╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
-```
+[![CI](https://github.com/suradet-ps/vue-bun-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/suradet-ps/vue-bun-starter/actions/workflows/ci.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Vue v3](https://img.shields.io/badge/Vue-v3-4FC08D.svg?logo=vuedotjs&logoColor=white)](https://vuejs.org/)
+[![TypeScript v6](https://img.shields.io/badge/TypeScript-v6-3178C6.svg?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vite v8](https://img.shields.io/badge/Vite-v8-646CFF.svg?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![Bun](https://img.shields.io/badge/Bun-000000.svg?logo=bun&logoColor=white)](https://bun.sh/)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/suradet-ps/vue-bun-starter/issues)
 
 ---
 
@@ -27,7 +26,7 @@ that matters.
 
 *v1.0.12 - the scaffold - stack, gates, releases - is sealed.*
 
-> Built with Vue 3.5 + TypeScript 5.9 + Vite 7 + Bun, released by
+> Built with Vue 3.5 + TypeScript 6 + Vite 8 + Bun, released by
 > Semantic Release - the boring parts, decided once, automated after.
 >
 > **suradet-ps**, artifact keeper
@@ -73,7 +72,7 @@ Live demo: [vue-bun-starter.netlify.app](https://vue-bun-starter.netlify.app).
 One scaffold, several already-made decisions, one release bot.
 
 - **Types** - `strict: true` and `noUncheckedIndexedAccess` on
-  TypeScript 5.9 - an index access without a guard is a compile
+  TypeScript 6 - an index access without a guard is a compile
   error, not a runtime surprise.
 - **Styles** - Tailwind CSS 4 with Vite-native integration -
   utility-first styling without a PostCSS pipeline to babysit.
